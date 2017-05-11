@@ -1,2 +1,1 @@
-# blog-posts
-Repository for draft blog posts pre-publication.
+repository of draft blog posts for transfer to [website](dig-eg-gaz.github.io)
